@@ -3,9 +3,9 @@
 $text ="eeeee";
 $name ="ffff";
 
-echo $text.$name;
+echo $text.$name."<br>";
 
-echo "======================";
+echo "======================"."<br>";
 /*task1*/
 $x = 10; 
 $y = 5;
@@ -14,7 +14,7 @@ $y = 5;
 $y = $x - $y;  
 $x = $x - $y;  
  
-echo "After Swapping: x = ",$x, "x= ", "y = ", $y;
+echo "After Swapping: x = ",$x, "x= ", "y = ", $y."<br>";
 
 
 echo "======================";
